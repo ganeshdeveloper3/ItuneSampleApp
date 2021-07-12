@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ItuneSampleApp</string>
+    <string name="title_video">Video</string>
+    <string name="title_History">History</string>
+    <string name="title_videoPlayer">VideoPlayer</string>
+
+</resources>
